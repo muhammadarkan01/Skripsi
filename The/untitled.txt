@@ -1,1 +1,0 @@
-http://localhost:6900/datasets/rubrix/ws_natural_disaster/?query=e30&sort=W10&viewMode=explore&pagination=eyJzaXplIjoxMCwicGFnZSI6MX0
